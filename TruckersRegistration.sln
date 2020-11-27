@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckersRegistration", "TruckersRegistration\TruckersRegistration.csproj", "{2A08A8E4-26C9-42DE-9C32-CB7C5514587D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckersRegistration.Model", "TruckersRegistration.Model\TruckersRegistration.Model.csproj", "{64B5E146-9C29-4768-BF31-9138AC07CC96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckersRegistration.Model", "TruckersRegistration.Model\TruckersRegistration.Model.csproj", "{64B5E146-9C29-4768-BF31-9138AC07CC96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckersRegistration.Repository", "TruckersRegistration.Repository\TruckersRegistration.Repository.csproj", "{08CE3FEA-00DB-4109-A912-48E22B79DB7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckersRegistration.Repository", "TruckersRegistration.Repository\TruckersRegistration.Repository.csproj", "{08CE3FEA-00DB-4109-A912-48E22B79DB7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckersRegistration.Service", "TruckersRegistration.Service\TruckersRegistration.Service.csproj", "{315A0A28-4C33-4205-9D1D-CEA5D506521E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckersRegistration.Service", "TruckersRegistration.Service\TruckersRegistration.Service.csproj", "{315A0A28-4C33-4205-9D1D-CEA5D506521E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
