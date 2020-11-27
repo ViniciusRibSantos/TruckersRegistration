@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TruckersRegistration.Model.Entity.Driver>
+
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Listar Motoristas</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Marca</th>
+                <th scope="col">Modelo</th>
+                <th scope="col">Placa</th>
+                <th scope="col">Eixo</th>
+                <th scope="col">CEP</th>
+                <th scope="col">Rua</th>
+                <th scope="col">Numero</th>
+                <th scope="col">Bairro</th>
+                <th scope="col">Cidade</th>
+                <th scope="col">Estado</th>
+                <th scope="col">País</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.Truck.Brand</td>
+                <td>@item.Truck.Model</td>
+                <td>@item.Truck.Plate</td>
+                <td>@item.Truck.Axles</td>
+                <td>@item.Address.CEP</td>
+                <td>@item.Address.Street</td>
+                <td>@item.Address.Number</td>
+                <td>@item.Address.Neighborhood</td>
+                <td>@item.Address.City</td>
+                <td>@item.Address.State</td>
+                <td>@item.Address.Country</td>
+                <td><a href="/Driver/Edit/@item.Id">Editar</a></td>
+                <td><a href="/Driver/Delete/@item.Id">Excluir</a></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

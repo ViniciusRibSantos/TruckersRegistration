@@ -1,0 +1,17 @@
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.deps.json
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.dll
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.pdb
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.AssemblyInfoInputs.cache
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.AssemblyInfo.cs
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.csproj.CoreCompileInputs.cache
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.dll
+C:\Users\ribei\Source\repos\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.pdb
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.deps.json
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.dll
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\bin\Debug\netcoreapp3.1\TruckersRegistration.Model.pdb
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.AssemblyInfoInputs.cache
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.AssemblyInfo.cs
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.csproj.CoreCompileInputs.cache
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.dll
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.pdb
+C:\Users\ribei\Source\repos\TruckersRegistration\TruckersRegistration.Model\obj\Debug\netcoreapp3.1\TruckersRegistration.Model.csprojAssemblyReference.cache
